@@ -14,6 +14,4 @@
 
   ##
   
-<div>
   ![Snake animation](https://github.com/Henrik-0/Henrik-0/blob/output/github-contribution-grid-snake.svg)
-</div>
