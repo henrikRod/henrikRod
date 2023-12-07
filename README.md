@@ -1,4 +1,4 @@
-## Hi, I'm Henrik, I'm in the 2nd year of high school, and I started to learn programming
+## Hi, I'm Henrik
 
 <div align="center">
   <a href="https://github.com/Henrik-0">
