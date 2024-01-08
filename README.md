@@ -1,8 +1,8 @@
 ## Hi, I'm Henrik
 
 <div align="center">
-  <a href="https://github.com/Henrik-0">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrik-0&layout=compact&langs_count=7&theme=nightowl"/>
+  <a href="https://github.com/henrikRod">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikRod&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
 <div style="display: inline_block"><br>
