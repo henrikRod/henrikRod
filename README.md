@@ -19,7 +19,6 @@ Olá, eu sou Henrik! Aqui é onde guardo meus projetos. Se algo chamou sua aten�
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrikRod&show_icons=true&theme=vision-friendly-dark&count_private=true&hide=contribs,prs" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikRod&layout=compact&theme=vision-friendly-dark&count_private=true" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
