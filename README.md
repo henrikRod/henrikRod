@@ -18,7 +18,7 @@
 
 ### Sobre
 
-Sou sócio e co-fundador da **[TREE.IA](https://tree.ia.br)**, empresa de inteligência artificial fundada em 2024 que desenvolve produtos próprios para empresas. Atuamos na criação de agentes de IA, dashboards administrativos, aplicativos móveis e plataformas web — sempre com foco em automação inteligente e integração com o dia a dia dos negócios.
+Sou sócio e co-fundador da **[TREE.IA](https://tree.ia.br)**, empresa de inteligência artificial que desenvolve produtos próprios. Atuamos na criação de agentes de IA, dashboards administrativos, aplicativos móveis e plataformas web — sempre com foco em automação inteligente e integração com o dia a dia dos negócios.
 
 ---
 
